@@ -1,4 +1,4 @@
-<?
+<?php
 /*
  *  Copyright (C) 2014 Stichting Akvo (Akvo Foundation)
  *
